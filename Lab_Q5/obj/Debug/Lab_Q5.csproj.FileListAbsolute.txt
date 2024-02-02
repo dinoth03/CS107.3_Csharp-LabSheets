@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\bin\Debug\Lab_Q5.exe.config
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\bin\Debug\Lab_Q5.exe
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\bin\Debug\Lab_Q5.pdb
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\obj\Debug\Lab_Q5.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\obj\Debug\Lab_Q5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\obj\Debug\Lab_Q5.exe
+C:\Users\DELL\OneDrive\Documents\NSBM\3rd SEM\C# Programming\Lab Exercises\Lab 31_01_24\Lab_Q5\obj\Debug\Lab_Q5.pdb
