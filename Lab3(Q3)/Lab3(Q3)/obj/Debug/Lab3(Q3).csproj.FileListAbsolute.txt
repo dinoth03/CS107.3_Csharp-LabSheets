@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\bin\Debug\Lab3(Q3).exe.config
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\bin\Debug\Lab3(Q3).exe
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\bin\Debug\Lab3(Q3).pdb
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\obj\Debug\Lab3(Q3).csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\obj\Debug\Lab3(Q3).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\obj\Debug\Lab3(Q3).exe
+C:\Users\ASUS\Desktop\Dulaj\Lab3(Q3)\Lab3(Q3)\obj\Debug\Lab3(Q3).pdb
